@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.122",
-          "buildVersion": "122",
-          "date": "2026-11-24T14:14:48.274Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.ipa",
+          "version": "1.0.124",
+          "buildVersion": "124",
+          "date": "2026-11-24T15:32:23.672Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa",
           "size": 10102037,
-          "localizedDescription": "Spoty: find missing lyrics and covers automatically and save them to Jellyfin",
+          "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.119",
-          "buildVersion": "119",
-          "date": "2026-11-24T13:58:07.449Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.ipa",
-          "size": 10173291,
-          "localizedDescription": "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar",
+          "version": "1.0.124",
+          "buildVersion": "124",
+          "date": "2026-11-24T15:32:23.614Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa",
+          "size": 10173268,
+          "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
           "minOSVersion": "15.0"
         }
       ],
@@ -63,12 +63,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.119",
-          "buildVersion": "119",
-          "date": "2026-11-24T13:58:07.391Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.ipa",
-          "size": 9997807,
-          "localizedDescription": "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar",
+          "version": "1.0.124",
+          "buildVersion": "124",
+          "date": "2026-11-24T15:32:23.556Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa",
+          "size": 9997801,
+          "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
           "minOSVersion": "15.0"
         }
       ],

@@ -7,27 +7,27 @@
       "description": "Your Butterfly budget and transactions.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
       "android": {
-        "build": 119,
-        "version": "1.0.119",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.apk",
-        "size": 110969000,
-        "sha256": "63d4d41713050f297c63a6a82d06fadbb4777b2225a357a5e99304b9fccce052",
-        "date": "2026-11-24T13:58:07.105Z",
-        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.apk",
+        "size": 92782648,
+        "sha256": "157d2432c6b3618a3ff1ecd6435100a763f0cb4a3212f53743b7d7be70ad1104",
+        "date": "2026-11-24T15:32:23.303Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       },
       "ios": {
-        "build": 119,
-        "version": "1.0.119",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.ipa",
-        "size": 9997807,
-        "sha256": "87f318b1c90eb4ae4f6839f1b70da29f203857057e278fe70be8e5b6d19294ea",
-        "date": "2026-11-24T13:58:07.391Z",
-        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa",
+        "size": 9997801,
+        "sha256": "15d6003c7c20ea37d634a39c2b5316a40910e2b20819cd08bf7e642a8dc38cc2",
+        "date": "2026-11-24T15:32:23.556Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       }
     },
@@ -37,27 +37,27 @@
       "description": "Your Frigate cameras, alerts and detections.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
       "android": {
-        "build": 119,
-        "version": "1.0.119",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.apk",
-        "size": 111539908,
-        "sha256": "d9e17d69121b4b4ad158361dc20e8708cc138275d08ebd90b6cb36e116cf2405",
-        "date": "2026-11-24T13:58:07.218Z",
-        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.apk",
+        "size": 93372448,
+        "sha256": "6fd3d23f9a313fd53c4df7bbe2b1e9ab52a4cbdc21959732f4cc646dff43837c",
+        "date": "2026-11-24T15:32:23.401Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       },
       "ios": {
-        "build": 119,
-        "version": "1.0.119",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.ipa",
-        "size": 10173291,
-        "sha256": "441bfcaf795eb61bfdd9fbb9451d53e2459567ac8254f8203db7073e2ae9ca82",
-        "date": "2026-11-24T13:58:07.449Z",
-        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa",
+        "size": 10173268,
+        "sha256": "af5f9011cdf416e50237f4a62dfa02bf0796c3e44b382dde1cdffd71990e89c2",
+        "date": "2026-11-24T15:32:23.614Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       }
     },
@@ -67,39 +67,39 @@
       "description": "Music from your Jellyfin server.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
       "android": {
-        "build": 122,
-        "version": "1.0.122",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.apk",
-        "size": 114372555,
-        "sha256": "f3ba4272694b94bc8dc9bf2ad94f54029ac2e442a51034585dd1b8eee30b7a67",
-        "date": "2026-11-24T14:14:48.208Z",
-        "commit": "3551aac0b0f337e10d81745ad5db66456195ce9f",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.apk",
+        "size": 96204943,
+        "sha256": "ff61936512c74dada8e3370f73ce9c9fafbab6537e1b04292d4a02841fa09969",
+        "date": "2026-11-24T15:32:23.495Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Spoty: find missing lyrics and covers automatically and save them to Jellyfin"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       },
       "ios": {
-        "build": 122,
-        "version": "1.0.122",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.ipa",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa",
         "size": 10102037,
-        "sha256": "c5eb6e0eefb7da91bc265f4a685001dbf1b57157385676d5855265295dfbb5f3",
-        "date": "2026-11-24T14:14:48.274Z",
-        "commit": "3551aac0b0f337e10d81745ad5db66456195ce9f",
+        "sha256": "febd4373308ba78207f4d69b5eea1d003213739811f815a5a471b23ac7026943",
+        "date": "2026-11-24T15:32:23.672Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Spoty: find missing lyrics and covers automatically and save them to Jellyfin"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       },
       "mac": {
-        "build": 123,
-        "version": "1.0.123",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-123/spoty-123.dmg",
-        "size": 20489523,
-        "sha256": "f85ef5cdf183a4ea91d03f6572bb66cda574ad0810783570bb5d66334964f220",
-        "date": "2026-11-24T14:21:05.222Z",
-        "commit": "10bacba46c7c2dc587467ca2bdf6aed21330c30c",
+        "build": 124,
+        "version": "1.0.124",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.dmg",
+        "size": 20467106,
+        "sha256": "00aac9eedb27df40a1705deb803a5756b69bd4214d63ec4d36b0a69f471d311d",
+        "date": "2026-11-24T15:32:23.736Z",
+        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
         "notes": [
-          "Spoty web/Mac: genre radio tiles fit their names"
+          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
         ]
       }
     }

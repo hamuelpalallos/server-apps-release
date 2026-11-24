@@ -5,9 +5,9 @@ on every build; nothing here is edited by hand.
 
 | App | Android | iPhone | Mac (Apple silicon) |
 | --- | --- | --- | --- |
-| Spoty | [Download APK 1.0.122](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.apk) (109 MB) | 1.0.122 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.ipa), 10 MB) | [Download for Mac 1.0.123](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-123/spoty-123.dmg) (20 MB) |
-| Glance | [Download APK 1.0.119](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.apk) (106 MB) | 1.0.119 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.ipa), 10 MB) | — |
-| Butterfly | [Download APK 1.0.119](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.apk) (106 MB) | 1.0.119 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.ipa), 10 MB) | — |
+| Spoty | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.apk) (92 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa), 10 MB) | [Download for Mac 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.dmg) (20 MB) |
+| Glance | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.apk) (89 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa), 10 MB) | — |
+| Butterfly | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.apk) (88 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa), 10 MB) | — |
 
 - **Android:** open the APK link on your phone and tap Install. After that the app updates itself (it asks when a
   new build is out; Settings → Check for updates checks right away).
