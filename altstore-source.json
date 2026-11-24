@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.108",
-          "buildVersion": "108",
-          "date": "2026-11-24T10:54:05.855Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/spoty-108.ipa",
-          "size": 10032418,
-          "localizedDescription": "Releases go to hamuelpalallos/server-apps-release\nMobile apps: in-app updates and a release workflow\nButterfly mobile: NativeScript-Vue app for the Butterfly finance server\nSpoty for macOS: Electrobun desktop app around the web player\niOS: set the home-screen names to Glance and Spoty\niOS: raise pods to iOS 16 so Xcode 16 can build them\nAdd on-demand iOS build (unsigned IPA) for Spoty and Glance\nGlance: fix review findings (security and correctness)\nAdd Glance: Frigate NVR client (mobile, web, push relay)\nOnly open the song menu on a real long press",
+          "version": "1.0.116",
+          "buildVersion": "116",
+          "date": "2026-11-24T12:58:34.762Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-116/spoty-116.ipa",
+          "size": 10101170,
+          "localizedDescription": "Spoty: song requests (Lidarr, or a request list) and Find lyrics on web and Mac\nSpoty for Mac: released with the mobile apps, and updates itself",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.108",
-          "buildVersion": "108",
-          "date": "2026-11-24T10:54:05.811Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/glance-108.ipa",
-          "size": 10106917,
-          "localizedDescription": "Releases go to hamuelpalallos/server-apps-release\nMobile apps: in-app updates and a release workflow\nButterfly mobile: NativeScript-Vue app for the Butterfly finance server\nSpoty for macOS: Electrobun desktop app around the web player\nGlance mobile: tab highlight sized by its grid column\nGlance mobile: no black page after going back\nGlance mobile: Synced Playback no longer restarts its players in a loop\nGlance mobile: player watchdog starts a ready-but-paused video\nGlance mobile: recordings start playing instead of waiting forever\nGlance mobile: player turns AirPlay off for Managed Media Source; logs its steps",
+          "version": "1.0.116",
+          "buildVersion": "116",
+          "date": "2026-11-24T12:58:34.703Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-116/glance-116.ipa",
+          "size": 10173289,
+          "localizedDescription": "Spoty for Mac: released with the mobile apps, and updates itself",
           "minOSVersion": "15.0"
         }
       ],
@@ -63,12 +63,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.108",
-          "buildVersion": "108",
-          "date": "2026-11-24T10:54:05.764Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/butterfly-108.ipa",
-          "size": 9930905,
-          "localizedDescription": "Releases go to hamuelpalallos/server-apps-release\nMobile apps: in-app updates and a release workflow\nButterfly mobile: typing 0 no longer adds extra zeros\nButterfly mobile: number keypads, and number boxes accept only valid characters\nButterfly mobile: amounts format as you type (35000 shows as 35,000)\nButterfly mobile: the amount box grows with the number (35,000 was cut to 35…)\nButterfly mobile: add, take out and move money for goals; spending that reduces what's saved\nButterfly mobile: manage goals, budgets, categories, tags, recurring and rules on the phone\nButterfly mobile: camera asks for access and opens full screen (no more black view)\nButterfly mobile: added/edited dates and sort; theme switches update in place",
+          "version": "1.0.116",
+          "buildVersion": "116",
+          "date": "2026-11-24T12:58:34.645Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-116/butterfly-116.ipa",
+          "size": 9997806,
+          "localizedDescription": "Spoty for Mac: released with the mobile apps, and updates itself",
           "minOSVersion": "15.0"
         }
       ],
