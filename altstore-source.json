@@ -1,7 +1,7 @@
 {
   "name": "Personal apps",
   "identifier": "dev.personal.apps",
-  "sourceURL": "https://cdn.jsdelivr.net/gh/hamuelpalallos/server-apps-release@main/altstore-source.json",
+  "sourceURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json",
   "subtitle": "Spoty, Glance and Butterfly",
   "tintColor": "#f26b3a",
   "apps": [
@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.124",
-          "buildVersion": "124",
-          "date": "2026-11-24T15:32:23Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa",
-          "size": 10102037,
-          "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
+          "version": "1.0.132",
+          "buildVersion": "132",
+          "date": "2026-11-24T18:31:15Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.ipa",
+          "size": 10102038,
+          "localizedDescription": "AltStore source: dates without fractional seconds",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.124",
-          "buildVersion": "124",
-          "date": "2026-11-24T15:32:23Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa",
+          "version": "1.0.132",
+          "buildVersion": "132",
+          "date": "2026-11-24T18:31:15Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.ipa",
           "size": 10173268,
-          "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
+          "localizedDescription": "AltStore source: dates without fractional seconds",
           "minOSVersion": "15.0"
         }
       ],
@@ -63,12 +63,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.124",
-          "buildVersion": "124",
-          "date": "2026-11-24T15:32:23Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa",
+          "version": "1.0.132",
+          "buildVersion": "132",
+          "date": "2026-11-24T18:31:15Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.ipa",
           "size": 9997801,
-          "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
+          "localizedDescription": "AltStore source: dates without fractional seconds",
           "minOSVersion": "15.0"
         }
       ],

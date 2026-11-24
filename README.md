@@ -5,16 +5,16 @@ on every build; nothing here is edited by hand.
 
 | App | Android | iPhone | Mac (Apple silicon) |
 | --- | --- | --- | --- |
-| Spoty | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.apk) (92 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa), 10 MB) | [Download for Mac 1.0.131](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-131/spoty-131.dmg) (20 MB) |
-| Glance | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.apk) (89 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa), 10 MB) | — |
-| Butterfly | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.apk) (88 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa), 10 MB) | — |
+| Spoty | [Download APK 1.0.132](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.apk) (92 MB) | 1.0.132 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.ipa), 10 MB) | [Download for Mac 1.0.131](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-131/spoty-131.dmg) (20 MB) |
+| Glance | [Download APK 1.0.132](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.apk) (89 MB) | 1.0.132 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.ipa), 10 MB) | — |
+| Butterfly | [Download APK 1.0.132](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.apk) (88 MB) | 1.0.132 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.ipa), 10 MB) | — |
 
 - **Android:** open the APK link on your phone and tap Install. After that the app updates itself (it asks when a
   new build is out; Settings → Check for updates checks right away).
 - **Mac:** open the .dmg and drag Spoty to Applications. The first time, macOS says it can't check the app: open
   System Settings → Privacy & Security → Open Anyway. After that Spoty updates itself (Spoty → Check for Updates…).
 - **iPhone:** add this source once in AltStore or SideStore, then install and update the apps from there:
-  `https://cdn.jsdelivr.net/gh/hamuelpalallos/server-apps-release@main/altstore-source.json`
+  `https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json`
   See [iPhone setup with a free Apple ID](#iphone-setup-with-a-free-apple-id) below.
 - [All releases](https://github.com/hamuelpalallos/server-apps-release/releases) ·
   [updates.json](https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/updates.json) (what the apps read)
@@ -34,7 +34,7 @@ always-on Mac (the Mac mini) keeps them signed.
    - Settings → General → VPN & Device Management → your Apple ID → Trust.
    - iOS 16 and later: Settings → Privacy & Security → Developer Mode → on (the iPhone restarts).
 5. **Add the source:** open AltStore → Sources → + and paste
-   `https://cdn.jsdelivr.net/gh/hamuelpalallos/server-apps-release@main/altstore-source.json`.
+   `https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json`.
    Then install Spoty, Glance or Butterfly from Browse.
 
 **Free Apple ID limits:**

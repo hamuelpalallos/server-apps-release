@@ -7,27 +7,27 @@
       "description": "Your Butterfly budget and transactions.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
       "android": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.apk",
+        "build": 132,
+        "version": "1.0.132",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.apk",
         "size": 92782648,
-        "sha256": "157d2432c6b3618a3ff1ecd6435100a763f0cb4a3212f53743b7d7be70ad1104",
-        "date": "2026-11-24T15:32:23.303Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "sha256": "717eb46559b56c35fd34f0af558c9c4e67860ce5e6ec7a70711778f9353e5840",
+        "date": "2026-11-24T18:31:15.003Z",
+        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "AltStore source: dates without fractional seconds"
         ]
       },
       "ios": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa",
+        "build": 132,
+        "version": "1.0.132",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.ipa",
         "size": 9997801,
-        "sha256": "15d6003c7c20ea37d634a39c2b5316a40910e2b20819cd08bf7e642a8dc38cc2",
-        "date": "2026-11-24T15:32:23.556Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "sha256": "777c57191f8c190fe06fcb023233ea601fc4278b7fbf92f9c4b099c1ac523ce4",
+        "date": "2026-11-24T18:31:15.321Z",
+        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "AltStore source: dates without fractional seconds"
         ]
       }
     },
@@ -37,27 +37,27 @@
       "description": "Your Frigate cameras, alerts and detections.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
       "android": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.apk",
+        "build": 132,
+        "version": "1.0.132",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.apk",
         "size": 93372448,
-        "sha256": "6fd3d23f9a313fd53c4df7bbe2b1e9ab52a4cbdc21959732f4cc646dff43837c",
-        "date": "2026-11-24T15:32:23.401Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "sha256": "86ba8a055dcec45d0728a11ade388de4b556a478a6b1425a8c57a65342b32cb5",
+        "date": "2026-11-24T18:31:15.139Z",
+        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "AltStore source: dates without fractional seconds"
         ]
       },
       "ios": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa",
+        "build": 132,
+        "version": "1.0.132",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.ipa",
         "size": 10173268,
-        "sha256": "af5f9011cdf416e50237f4a62dfa02bf0796c3e44b382dde1cdffd71990e89c2",
-        "date": "2026-11-24T15:32:23.614Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "sha256": "e8558ab617ebeb86656562d87bf74dfe8c55e9cb4ac513f4dcef2f6032aff37d",
+        "date": "2026-11-24T18:31:15.383Z",
+        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "AltStore source: dates without fractional seconds"
         ]
       }
     },
@@ -67,27 +67,27 @@
       "description": "Music from your Jellyfin server.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
       "android": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.apk",
+        "build": 132,
+        "version": "1.0.132",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.apk",
         "size": 96204943,
-        "sha256": "ff61936512c74dada8e3370f73ce9c9fafbab6537e1b04292d4a02841fa09969",
-        "date": "2026-11-24T15:32:23.495Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "sha256": "f699a93aa403dfa4cfb9bb82b6c858d803bc7fb6ed7b5caa5016df5fcc379c91",
+        "date": "2026-11-24T18:31:15.258Z",
+        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "AltStore source: dates without fractional seconds"
         ]
       },
       "ios": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa",
-        "size": 10102037,
-        "sha256": "febd4373308ba78207f4d69b5eea1d003213739811f815a5a471b23ac7026943",
-        "date": "2026-11-24T15:32:23.672Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "build": 132,
+        "version": "1.0.132",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.ipa",
+        "size": 10102038,
+        "sha256": "287b544236e2ce287038259e819ff9b1155c4959a420ca7859047f828a4feb16",
+        "date": "2026-11-24T18:31:15.444Z",
+        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "AltStore source: dates without fractional seconds"
         ]
       },
       "mac": {
