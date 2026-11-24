@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.119",
-          "buildVersion": "119",
-          "date": "2026-11-24T13:58:07.507Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.ipa",
-          "size": 10101790,
-          "localizedDescription": "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar",
+          "version": "1.0.122",
+          "buildVersion": "122",
+          "date": "2026-11-24T14:14:48.274Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.ipa",
+          "size": 10102037,
+          "localizedDescription": "Spoty: find missing lyrics and covers automatically and save them to Jellyfin",
           "minOSVersion": "15.0"
         }
       ],

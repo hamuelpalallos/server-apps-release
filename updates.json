@@ -67,27 +67,48 @@
       "description": "Music from your Jellyfin server.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
       "android": {
-        "build": 119,
-        "version": "1.0.119",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.apk",
-        "size": 114372291,
-        "sha256": "34a6277cca9c937f81813bfe628a65cfcf50ffc0373a88b6b33049af4948fd54",
-        "date": "2026-11-24T13:58:07.325Z",
-        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
+        "build": 122,
+        "version": "1.0.122",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.apk",
+        "size": 114372555,
+        "sha256": "f3ba4272694b94bc8dc9bf2ad94f54029ac2e442a51034585dd1b8eee30b7a67",
+        "date": "2026-11-24T14:14:48.208Z",
+        "commit": "3551aac0b0f337e10d81745ad5db66456195ce9f",
         "notes": [
-          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
+          "Spoty: find missing lyrics and covers automatically and save them to Jellyfin"
         ]
       },
       "ios": {
-        "build": 119,
-        "version": "1.0.119",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.ipa",
-        "size": 10101790,
-        "sha256": "3b81161abd354c272affcdada626b4404460183715ee58665c549d3f20987302",
-        "date": "2026-11-24T13:58:07.507Z",
-        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
+        "build": 122,
+        "version": "1.0.122",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.ipa",
+        "size": 10102037,
+        "sha256": "c5eb6e0eefb7da91bc265f4a685001dbf1b57157385676d5855265295dfbb5f3",
+        "date": "2026-11-24T14:14:48.274Z",
+        "commit": "3551aac0b0f337e10d81745ad5db66456195ce9f",
         "notes": [
-          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
+          "Spoty: find missing lyrics and covers automatically and save them to Jellyfin"
+        ]
+      },
+      "mac": {
+        "build": 122,
+        "version": "1.0.122",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.dmg",
+        "size": 20489541,
+        "sha256": "83a55ad7b32d03910dd2ad2907428e8d7032828eb5b9d1e8884e17457af12a3e",
+        "date": "2026-11-24T14:14:48.341Z",
+        "commit": "3551aac0b0f337e10d81745ad5db66456195ce9f",
+        "notes": [
+          "Spoty: find missing lyrics and covers automatically and save them to Jellyfin",
+          "Spoty for Mac: build script no longer stops silently on a missing folder",
+          "Spoty for Mac: build through a script that fails loudly",
+          "Spoty: song requests (Lidarr, or a request list) and Find lyrics on web and Mac",
+          "Spoty for Mac: released with the mobile apps, and updates itself",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: NativeScript-Vue app for the Butterfly finance server",
+          "Spoty web/desktop: Spotify-style UI",
+          "Web layout: stop the window-resize jitter",
+          "Spoty macOS: ad-hoc sign the final bundle so downloads aren't reported as damaged"
         ]
       }
     }
