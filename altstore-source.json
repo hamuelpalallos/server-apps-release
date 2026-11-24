@@ -1,0 +1,9 @@
+{
+  "name": "Personal apps",
+  "identifier": "dev.personal.apps",
+  "sourceURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json",
+  "subtitle": "Spoty, Glance and Butterfly",
+  "tintColor": "#f26b3a",
+  "apps": [],
+  "news": []
+}
