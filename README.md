@@ -14,7 +14,7 @@ on every build; nothing here is edited by hand.
 - **Mac:** open the .dmg and drag Spoty to Applications. The first time, macOS says it can't check the app: open
   System Settings → Privacy & Security → Open Anyway. After that Spoty updates itself (Spoty → Check for Updates…).
 - **iPhone:** add this source once in AltStore or SideStore, then install and update the apps from there:
-  `https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json`
+  `https://cdn.jsdelivr.net/gh/hamuelpalallos/server-apps-release@main/altstore-source.json`
   See [iPhone setup with a free Apple ID](#iphone-setup-with-a-free-apple-id) below.
 - [All releases](https://github.com/hamuelpalallos/server-apps-release/releases) ·
   [updates.json](https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/updates.json) (what the apps read)
@@ -34,7 +34,7 @@ always-on Mac (the Mac mini) keeps them signed.
    - Settings → General → VPN & Device Management → your Apple ID → Trust.
    - iOS 16 and later: Settings → Privacy & Security → Developer Mode → on (the iPhone restarts).
 5. **Add the source:** open AltStore → Sources → + and paste
-   `https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json`.
+   `https://cdn.jsdelivr.net/gh/hamuelpalallos/server-apps-release@main/altstore-source.json`.
    Then install Spoty, Glance or Butterfly from Browse.
 
 **Free Apple ID limits:**
