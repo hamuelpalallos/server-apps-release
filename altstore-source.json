@@ -17,7 +17,7 @@
         {
           "version": "1.0.124",
           "buildVersion": "124",
-          "date": "2026-11-24T15:32:23.672Z",
+          "date": "2026-11-24T15:32:23Z",
           "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa",
           "size": 10102037,
           "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
@@ -41,7 +41,7 @@
         {
           "version": "1.0.124",
           "buildVersion": "124",
-          "date": "2026-11-24T15:32:23.614Z",
+          "date": "2026-11-24T15:32:23Z",
           "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa",
           "size": 10173268,
           "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
@@ -65,7 +65,7 @@
         {
           "version": "1.0.124",
           "buildVersion": "124",
-          "date": "2026-11-24T15:32:23.556Z",
+          "date": "2026-11-24T15:32:23Z",
           "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa",
           "size": 9997801,
           "localizedDescription": "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen",
