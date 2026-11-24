@@ -5,9 +5,9 @@ on every build; nothing here is edited by hand.
 
 | App | Android | iPhone | Mac (Apple silicon) |
 | --- | --- | --- | --- |
-| Spoty | [Download APK 1.0.117](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/spoty-117.apk) (109 MB) | 1.0.117 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/spoty-117.ipa), 10 MB) | not built yet |
-| Glance | [Download APK 1.0.117](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/glance-117.apk) (106 MB) | 1.0.117 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/glance-117.ipa), 10 MB) | — |
-| Butterfly | [Download APK 1.0.117](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/butterfly-117.apk) (106 MB) | 1.0.117 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/butterfly-117.ipa), 10 MB) | — |
+| Spoty | [Download APK 1.0.119](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.apk) (109 MB) | 1.0.119 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.ipa), 10 MB) | not built yet |
+| Glance | [Download APK 1.0.119](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.apk) (106 MB) | 1.0.119 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.ipa), 10 MB) | — |
+| Butterfly | [Download APK 1.0.119](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.apk) (106 MB) | 1.0.119 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.ipa), 10 MB) | — |
 
 - **Android:** open the APK link on your phone and tap Install. After that the app updates itself (it asks when a
   new build is out; Settings → Check for updates checks right away).

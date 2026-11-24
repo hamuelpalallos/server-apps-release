@@ -7,27 +7,27 @@
       "description": "Your Butterfly budget and transactions.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
       "android": {
-        "build": 117,
-        "version": "1.0.117",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/butterfly-117.apk",
-        "size": 110968432,
-        "sha256": "54cc4c43326def908769649e5e3d63cae83ef4caf8ed9fc37c8711781714697d",
-        "date": "2026-11-24T13:22:43.926Z",
-        "commit": "ee1780fc39887a2395549bf1030445d2efa7e79a",
+        "build": 119,
+        "version": "1.0.119",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.apk",
+        "size": 110969000,
+        "sha256": "63d4d41713050f297c63a6a82d06fadbb4777b2225a357a5e99304b9fccce052",
+        "date": "2026-11-24T13:58:07.105Z",
+        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
         "notes": [
-          "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id"
+          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
         ]
       },
       "ios": {
-        "build": 117,
-        "version": "1.0.117",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/butterfly-117.ipa",
-        "size": 9997823,
-        "sha256": "ef79a66a216a3616c1057f9c7af51646a7ff19cd691c77807b238c522ec0ade7",
-        "date": "2026-11-24T13:22:44.223Z",
-        "commit": "ee1780fc39887a2395549bf1030445d2efa7e79a",
+        "build": 119,
+        "version": "1.0.119",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.ipa",
+        "size": 9997807,
+        "sha256": "87f318b1c90eb4ae4f6839f1b70da29f203857057e278fe70be8e5b6d19294ea",
+        "date": "2026-11-24T13:58:07.391Z",
+        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
         "notes": [
-          "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id"
+          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
         ]
       }
     },
@@ -37,27 +37,27 @@
       "description": "Your Frigate cameras, alerts and detections.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
       "android": {
-        "build": 117,
-        "version": "1.0.117",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/glance-117.apk",
-        "size": 111539344,
-        "sha256": "7a6aa769dfc9667ef8f1ec2a2ac27907b4cbf356ffcbd01a46f8a3ae8b9769af",
-        "date": "2026-11-24T13:22:44.057Z",
-        "commit": "ee1780fc39887a2395549bf1030445d2efa7e79a",
+        "build": 119,
+        "version": "1.0.119",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.apk",
+        "size": 111539908,
+        "sha256": "d9e17d69121b4b4ad158361dc20e8708cc138275d08ebd90b6cb36e116cf2405",
+        "date": "2026-11-24T13:58:07.218Z",
+        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
         "notes": [
-          "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id"
+          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
         ]
       },
       "ios": {
-        "build": 117,
-        "version": "1.0.117",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/glance-117.ipa",
-        "size": 10173302,
-        "sha256": "e38603f54fd6ec90854fab483d22baaeffe371773a34d35f16d61bff1a0e838e",
-        "date": "2026-11-24T13:22:44.281Z",
-        "commit": "ee1780fc39887a2395549bf1030445d2efa7e79a",
+        "build": 119,
+        "version": "1.0.119",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.ipa",
+        "size": 10173291,
+        "sha256": "441bfcaf795eb61bfdd9fbb9451d53e2459567ac8254f8203db7073e2ae9ca82",
+        "date": "2026-11-24T13:58:07.449Z",
+        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
         "notes": [
-          "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id"
+          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
         ]
       }
     },
@@ -67,27 +67,27 @@
       "description": "Music from your Jellyfin server.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
       "android": {
-        "build": 117,
-        "version": "1.0.117",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/spoty-117.apk",
-        "size": 114371139,
-        "sha256": "5d2189bacf6b18f39a7e38a45c4b14118996d2de1149912c126be5fce310eafd",
-        "date": "2026-11-24T13:22:44.161Z",
-        "commit": "ee1780fc39887a2395549bf1030445d2efa7e79a",
+        "build": 119,
+        "version": "1.0.119",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.apk",
+        "size": 114372291,
+        "sha256": "34a6277cca9c937f81813bfe628a65cfcf50ffc0373a88b6b33049af4948fd54",
+        "date": "2026-11-24T13:58:07.325Z",
+        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
         "notes": [
-          "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id"
+          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
         ]
       },
       "ios": {
-        "build": 117,
-        "version": "1.0.117",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/spoty-117.ipa",
-        "size": 10101188,
-        "sha256": "e43ae0ed6adf23d052e2d98dc14f1187af24697da247ec6519a0408e9660e785",
-        "date": "2026-11-24T13:22:44.337Z",
-        "commit": "ee1780fc39887a2395549bf1030445d2efa7e79a",
+        "build": 119,
+        "version": "1.0.119",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.ipa",
+        "size": 10101790,
+        "sha256": "3b81161abd354c272affcdada626b4404460183715ee58665c549d3f20987302",
+        "date": "2026-11-24T13:58:07.507Z",
+        "commit": "84a57c37b8bf16f08d80063514f51b31bd51b650",
         "notes": [
-          "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id"
+          "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar"
         ]
       }
     }

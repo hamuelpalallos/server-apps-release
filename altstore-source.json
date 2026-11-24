@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.117",
-          "buildVersion": "117",
-          "date": "2026-11-24T13:22:44.337Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/spoty-117.ipa",
-          "size": 10101188,
-          "localizedDescription": "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id",
+          "version": "1.0.119",
+          "buildVersion": "119",
+          "date": "2026-11-24T13:58:07.507Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/spoty-119.ipa",
+          "size": 10101790,
+          "localizedDescription": "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.117",
-          "buildVersion": "117",
-          "date": "2026-11-24T13:22:44.281Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/glance-117.ipa",
-          "size": 10173302,
-          "localizedDescription": "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id",
+          "version": "1.0.119",
+          "buildVersion": "119",
+          "date": "2026-11-24T13:58:07.449Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/glance-119.ipa",
+          "size": 10173291,
+          "localizedDescription": "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar",
           "minOSVersion": "15.0"
         }
       ],
@@ -63,12 +63,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.117",
-          "buildVersion": "117",
-          "date": "2026-11-24T13:22:44.223Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/butterfly-117.ipa",
-          "size": 9997823,
-          "localizedDescription": "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id",
+          "version": "1.0.119",
+          "buildVersion": "119",
+          "date": "2026-11-24T13:58:07.391Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-119/butterfly-119.ipa",
+          "size": 9997807,
+          "localizedDescription": "Android updates download through DownloadManager; Spoty gets Butterfly's floating tab bar",
           "minOSVersion": "15.0"
         }
       ],
