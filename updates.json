@@ -91,15 +91,21 @@
         ]
       },
       "mac": {
-        "build": 124,
-        "version": "1.0.124",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.dmg",
-        "size": 20467106,
-        "sha256": "00aac9eedb27df40a1705deb803a5756b69bd4214d63ec4d36b0a69f471d311d",
-        "date": "2026-11-24T15:32:23.736Z",
-        "commit": "8f719a697246cfeb56f1b16a60c65f4776d444de",
+        "build": 131,
+        "version": "1.0.131",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-131/spoty-131.dmg",
+        "size": 20495195,
+        "sha256": "ad5043f975c792e39876b4240f015733bcfc74156e7b076103466a5ea5167fc9",
+        "date": "2026-11-24T15:41:37.476Z",
+        "commit": "dae5d7a3408433a2553b2ff2f76fa3d912775aa7",
         "notes": [
-          "Android apps: pin runtime 9.0.5; Butterfly no longer opens to a blank screen"
+          "Docs: running the Spoty companion and building Spoty for Mac",
+          "Spoty web/Mac: \"Settings\" in the companion hints is a link",
+          "Spoty for Mac: Settings… (Cmd+,) in the app menu, and an error log",
+          "Spoty for Mac: Cmd+Q quits, Cmd+W closes the window",
+          "Spoty web/Mac: the account menu is plain links",
+          "Spoty web/Mac: a Settings gear in the top bar",
+          "Spoty web/Mac: account menu opens Settings, Stats and Requests again"
         ]
       }
     }

@@ -5,7 +5,7 @@ on every build; nothing here is edited by hand.
 
 | App | Android | iPhone | Mac (Apple silicon) |
 | --- | --- | --- | --- |
-| Spoty | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.apk) (92 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa), 10 MB) | [Download for Mac 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.dmg) (20 MB) |
+| Spoty | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.apk) (92 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/spoty-124.ipa), 10 MB) | [Download for Mac 1.0.131](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-131/spoty-131.dmg) (20 MB) |
 | Glance | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.apk) (89 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/glance-124.ipa), 10 MB) | — |
 | Butterfly | [Download APK 1.0.124](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.apk) (88 MB) | 1.0.124 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-124/butterfly-124.ipa), 10 MB) | — |
 
