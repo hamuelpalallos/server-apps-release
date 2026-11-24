@@ -4,6 +4,79 @@
   "sourceURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/altstore-source.json",
   "subtitle": "Spoty, Glance and Butterfly",
   "tintColor": "#f26b3a",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Spoty",
+      "bundleIdentifier": "dev.personal.spoty",
+      "developerName": "Personal apps",
+      "subtitle": "Music from your Jellyfin server.",
+      "localizedDescription": "Music from your Jellyfin server.",
+      "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
+      "tintColor": "#f26b3a",
+      "versions": [
+        {
+          "version": "1.0.108",
+          "buildVersion": "108",
+          "date": "2026-11-24T10:54:05.855Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/spoty-108.ipa",
+          "size": 10032418,
+          "localizedDescription": "Releases go to hamuelpalallos/server-apps-release\nMobile apps: in-app updates and a release workflow\nButterfly mobile: NativeScript-Vue app for the Butterfly finance server\nSpoty for macOS: Electrobun desktop app around the web player\niOS: set the home-screen names to Glance and Spoty\niOS: raise pods to iOS 16 so Xcode 16 can build them\nAdd on-demand iOS build (unsigned IPA) for Spoty and Glance\nGlance: fix review findings (security and correctness)\nAdd Glance: Frigate NVR client (mobile, web, push relay)\nOnly open the song menu on a real long press",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Glance",
+      "bundleIdentifier": "dev.personal.glance",
+      "developerName": "Personal apps",
+      "subtitle": "Your Frigate cameras, alerts and detections.",
+      "localizedDescription": "Your Frigate cameras, alerts and detections.",
+      "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
+      "tintColor": "#f26b3a",
+      "versions": [
+        {
+          "version": "1.0.108",
+          "buildVersion": "108",
+          "date": "2026-11-24T10:54:05.811Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/glance-108.ipa",
+          "size": 10106917,
+          "localizedDescription": "Releases go to hamuelpalallos/server-apps-release\nMobile apps: in-app updates and a release workflow\nButterfly mobile: NativeScript-Vue app for the Butterfly finance server\nSpoty for macOS: Electrobun desktop app around the web player\nGlance mobile: tab highlight sized by its grid column\nGlance mobile: no black page after going back\nGlance mobile: Synced Playback no longer restarts its players in a loop\nGlance mobile: player watchdog starts a ready-but-paused video\nGlance mobile: recordings start playing instead of waiting forever\nGlance mobile: player turns AirPlay off for Managed Media Source; logs its steps",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Butterfly",
+      "bundleIdentifier": "dev.personal.butterfly",
+      "developerName": "Personal apps",
+      "subtitle": "Your Butterfly budget and transactions.",
+      "localizedDescription": "Your Butterfly budget and transactions.",
+      "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
+      "tintColor": "#f26b3a",
+      "versions": [
+        {
+          "version": "1.0.108",
+          "buildVersion": "108",
+          "date": "2026-11-24T10:54:05.764Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/butterfly-108.ipa",
+          "size": 9930905,
+          "localizedDescription": "Releases go to hamuelpalallos/server-apps-release\nMobile apps: in-app updates and a release workflow\nButterfly mobile: typing 0 no longer adds extra zeros\nButterfly mobile: number keypads, and number boxes accept only valid characters\nButterfly mobile: amounts format as you type (35000 shows as 35,000)\nButterfly mobile: the amount box grows with the number (35,000 was cut to 35…)\nButterfly mobile: add, take out and move money for goals; spending that reduces what's saved\nButterfly mobile: manage goals, budgets, categories, tags, recurring and rules on the phone\nButterfly mobile: camera asks for access and opens full screen (no more black view)\nButterfly mobile: added/edited dates and sort; theme switches update in place",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
   "news": []
 }

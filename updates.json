@@ -1,4 +1,149 @@
 {
   "schema": 1,
-  "apps": {}
+  "apps": {
+    "butterfly": {
+      "name": "Butterfly",
+      "bundleId": "dev.personal.butterfly",
+      "description": "Your Butterfly budget and transactions.",
+      "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
+      "android": {
+        "build": 108,
+        "version": "1.0.108",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/butterfly-108.apk",
+        "size": 110968352,
+        "sha256": "bbadecc1a82fe982ad7d4c7b39db08665dba8507edecbbbb5a402e36ba8a63c9",
+        "date": "2026-11-24T10:54:05.342Z",
+        "commit": "d99b3eb1c15322c2ed6c94f0cb8d0fad522cf832",
+        "notes": [
+          "Releases go to hamuelpalallos/server-apps-release",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: typing 0 no longer adds extra zeros",
+          "Butterfly mobile: number keypads, and number boxes accept only valid characters",
+          "Butterfly mobile: amounts format as you type (35000 shows as 35,000)",
+          "Butterfly mobile: the amount box grows with the number (35,000 was cut to 35…)",
+          "Butterfly mobile: add, take out and move money for goals; spending that reduces what's saved",
+          "Butterfly mobile: manage goals, budgets, categories, tags, recurring and rules on the phone",
+          "Butterfly mobile: camera asks for access and opens full screen (no more black view)",
+          "Butterfly mobile: added/edited dates and sort; theme switches update in place"
+        ]
+      },
+      "ios": {
+        "build": 108,
+        "version": "1.0.108",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/butterfly-108.ipa",
+        "size": 9930905,
+        "sha256": "2eefb7fe0263a693fe65aab0523cfa2a45d24d486ec15fd1594c1bca378dad32",
+        "date": "2026-11-24T10:54:05.764Z",
+        "commit": "d99b3eb1c15322c2ed6c94f0cb8d0fad522cf832",
+        "notes": [
+          "Releases go to hamuelpalallos/server-apps-release",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: typing 0 no longer adds extra zeros",
+          "Butterfly mobile: number keypads, and number boxes accept only valid characters",
+          "Butterfly mobile: amounts format as you type (35000 shows as 35,000)",
+          "Butterfly mobile: the amount box grows with the number (35,000 was cut to 35…)",
+          "Butterfly mobile: add, take out and move money for goals; spending that reduces what's saved",
+          "Butterfly mobile: manage goals, budgets, categories, tags, recurring and rules on the phone",
+          "Butterfly mobile: camera asks for access and opens full screen (no more black view)",
+          "Butterfly mobile: added/edited dates and sort; theme switches update in place"
+        ]
+      }
+    },
+    "glance": {
+      "name": "Glance",
+      "bundleId": "dev.personal.glance",
+      "description": "Your Frigate cameras, alerts and detections.",
+      "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
+      "android": {
+        "build": 108,
+        "version": "1.0.108",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/glance-108.apk",
+        "size": 111539328,
+        "sha256": "fc1e44bdb6f9486819bd184456f7c0422993ac217b18f17929301d49108a7552",
+        "date": "2026-11-24T10:54:05.522Z",
+        "commit": "d99b3eb1c15322c2ed6c94f0cb8d0fad522cf832",
+        "notes": [
+          "Releases go to hamuelpalallos/server-apps-release",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: NativeScript-Vue app for the Butterfly finance server",
+          "Spoty for macOS: Electrobun desktop app around the web player",
+          "Glance mobile: tab highlight sized by its grid column",
+          "Glance mobile: no black page after going back",
+          "Glance mobile: Synced Playback no longer restarts its players in a loop",
+          "Glance mobile: player watchdog starts a ready-but-paused video",
+          "Glance mobile: recordings start playing instead of waiting forever",
+          "Glance mobile: player turns AirPlay off for Managed Media Source; logs its steps"
+        ]
+      },
+      "ios": {
+        "build": 108,
+        "version": "1.0.108",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/glance-108.ipa",
+        "size": 10106917,
+        "sha256": "3e22ece6892cc134d2791d00625fcbc40dbaef3f2f3521e7e15737be9deec136",
+        "date": "2026-11-24T10:54:05.811Z",
+        "commit": "d99b3eb1c15322c2ed6c94f0cb8d0fad522cf832",
+        "notes": [
+          "Releases go to hamuelpalallos/server-apps-release",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: NativeScript-Vue app for the Butterfly finance server",
+          "Spoty for macOS: Electrobun desktop app around the web player",
+          "Glance mobile: tab highlight sized by its grid column",
+          "Glance mobile: no black page after going back",
+          "Glance mobile: Synced Playback no longer restarts its players in a loop",
+          "Glance mobile: player watchdog starts a ready-but-paused video",
+          "Glance mobile: recordings start playing instead of waiting forever",
+          "Glance mobile: player turns AirPlay off for Managed Media Source; logs its steps"
+        ]
+      }
+    },
+    "spoty": {
+      "name": "Spoty",
+      "bundleId": "dev.personal.spoty",
+      "description": "Music from your Jellyfin server.",
+      "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
+      "android": {
+        "build": 108,
+        "version": "1.0.108",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/spoty-108.apk",
+        "size": 114368839,
+        "sha256": "39e219e179f783e2fdc6b38659fa823f4351d7032e6f444589b21d4fc217c837",
+        "date": "2026-11-24T10:54:05.711Z",
+        "commit": "d99b3eb1c15322c2ed6c94f0cb8d0fad522cf832",
+        "notes": [
+          "Releases go to hamuelpalallos/server-apps-release",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: NativeScript-Vue app for the Butterfly finance server",
+          "Spoty for macOS: Electrobun desktop app around the web player",
+          "iOS: set the home-screen names to Glance and Spoty",
+          "iOS: raise pods to iOS 16 so Xcode 16 can build them",
+          "Add on-demand iOS build (unsigned IPA) for Spoty and Glance",
+          "Glance: fix review findings (security and correctness)",
+          "Add Glance: Frigate NVR client (mobile, web, push relay)",
+          "Only open the song menu on a real long press"
+        ]
+      },
+      "ios": {
+        "build": 108,
+        "version": "1.0.108",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-108/spoty-108.ipa",
+        "size": 10032418,
+        "sha256": "cf28e1f3fd1f3f6d49e2e115198c5efdf7cfe3efa4a36ae2cbdb59f009b205e8",
+        "date": "2026-11-24T10:54:05.855Z",
+        "commit": "d99b3eb1c15322c2ed6c94f0cb8d0fad522cf832",
+        "notes": [
+          "Releases go to hamuelpalallos/server-apps-release",
+          "Mobile apps: in-app updates and a release workflow",
+          "Butterfly mobile: NativeScript-Vue app for the Butterfly finance server",
+          "Spoty for macOS: Electrobun desktop app around the web player",
+          "iOS: set the home-screen names to Glance and Spoty",
+          "iOS: raise pods to iOS 16 so Xcode 16 can build them",
+          "Add on-demand iOS build (unsigned IPA) for Spoty and Glance",
+          "Glance: fix review findings (security and correctness)",
+          "Add Glance: Frigate NVR client (mobile, web, push relay)",
+          "Only open the song menu on a real long press"
+        ]
+      }
+    }
+  }
 }
