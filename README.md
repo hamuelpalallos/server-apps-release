@@ -1,6 +1,6 @@
 # Server apps: releases
 
-Built apps for Spoty, Glance and Butterfly, published by the Release workflow in the private `personal-apps` repo.
+Built apps for Spoty, Glance and Butterfly, published by the Release workflow in the private `server-apps` repo.
 Nothing here is edited by hand.
 
 - `updates.json`: what the apps' in-app updater reads.
