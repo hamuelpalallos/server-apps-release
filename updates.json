@@ -7,27 +7,27 @@
       "description": "Your Butterfly budget and transactions.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
       "android": {
-        "build": 132,
-        "version": "1.0.132",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.apk",
+        "build": 133,
+        "version": "1.0.133",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-133/butterfly-133.apk",
         "size": 92782648,
-        "sha256": "717eb46559b56c35fd34f0af558c9c4e67860ce5e6ec7a70711778f9353e5840",
-        "date": "2026-11-24T18:31:15.003Z",
-        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
+        "sha256": "bd453694f745f195c9e8676d02ef9b2c8d40344b1fe4f90c10ecb828276d21af",
+        "date": "2026-11-24T18:53:24.513Z",
+        "commit": "9cee1a06cd7da693a7a188b3d6662c3872b617aa",
         "notes": [
-          "AltStore source: dates without fractional seconds"
+          "AltStore source served through jsDelivr"
         ]
       },
       "ios": {
-        "build": 132,
-        "version": "1.0.132",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/butterfly-132.ipa",
-        "size": 9997801,
-        "sha256": "777c57191f8c190fe06fcb023233ea601fc4278b7fbf92f9c4b099c1ac523ce4",
-        "date": "2026-11-24T18:31:15.321Z",
-        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
+        "build": 133,
+        "version": "1.0.133",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-133/butterfly-133.ipa",
+        "size": 9997821,
+        "sha256": "2677873753323e6976b787cc49ba02798ed759696b5afb3e5cb3fd8f91ba19f4",
+        "date": "2026-11-24T18:53:24.763Z",
+        "commit": "9cee1a06cd7da693a7a188b3d6662c3872b617aa",
         "notes": [
-          "AltStore source: dates without fractional seconds"
+          "AltStore source served through jsDelivr"
         ]
       }
     },
@@ -37,27 +37,27 @@
       "description": "Your Frigate cameras, alerts and detections.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
       "android": {
-        "build": 132,
-        "version": "1.0.132",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.apk",
-        "size": 93372448,
-        "sha256": "86ba8a055dcec45d0728a11ade388de4b556a478a6b1425a8c57a65342b32cb5",
-        "date": "2026-11-24T18:31:15.139Z",
-        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
+        "build": 133,
+        "version": "1.0.133",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-133/glance-133.apk",
+        "size": 93372440,
+        "sha256": "baa62bfc12665645d26c1d3c0852ae837ab325f82106091128f8d1cca292cdd6",
+        "date": "2026-11-24T18:53:24.609Z",
+        "commit": "9cee1a06cd7da693a7a188b3d6662c3872b617aa",
         "notes": [
-          "AltStore source: dates without fractional seconds"
+          "AltStore source served through jsDelivr"
         ]
       },
       "ios": {
-        "build": 132,
-        "version": "1.0.132",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/glance-132.ipa",
-        "size": 10173268,
-        "sha256": "e8558ab617ebeb86656562d87bf74dfe8c55e9cb4ac513f4dcef2f6032aff37d",
-        "date": "2026-11-24T18:31:15.383Z",
-        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
+        "build": 133,
+        "version": "1.0.133",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-133/glance-133.ipa",
+        "size": 10173288,
+        "sha256": "23857dd3b56421e5483dc3e3dee22da08abddedc951ddda7b7e3e35e35af0f51",
+        "date": "2026-11-24T18:53:24.819Z",
+        "commit": "9cee1a06cd7da693a7a188b3d6662c3872b617aa",
         "notes": [
-          "AltStore source: dates without fractional seconds"
+          "AltStore source served through jsDelivr"
         ]
       }
     },
@@ -67,27 +67,27 @@
       "description": "Music from your Jellyfin server.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
       "android": {
-        "build": 132,
-        "version": "1.0.132",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.apk",
-        "size": 96204943,
-        "sha256": "f699a93aa403dfa4cfb9bb82b6c858d803bc7fb6ed7b5caa5016df5fcc379c91",
-        "date": "2026-11-24T18:31:15.258Z",
-        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
+        "build": 133,
+        "version": "1.0.133",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-133/spoty-133.apk",
+        "size": 96204947,
+        "sha256": "890ad4a2c68b97427831ae393e0013347a77233fb613e284f4aa27747e8d1f0b",
+        "date": "2026-11-24T18:53:24.704Z",
+        "commit": "9cee1a06cd7da693a7a188b3d6662c3872b617aa",
         "notes": [
-          "AltStore source: dates without fractional seconds"
+          "AltStore source served through jsDelivr"
         ]
       },
       "ios": {
-        "build": 132,
-        "version": "1.0.132",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-132/spoty-132.ipa",
-        "size": 10102038,
-        "sha256": "287b544236e2ce287038259e819ff9b1155c4959a420ca7859047f828a4feb16",
-        "date": "2026-11-24T18:31:15.444Z",
-        "commit": "3f25cb65644b5294fb883e1d804fb7a41d665bc4",
+        "build": 133,
+        "version": "1.0.133",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-133/spoty-133.ipa",
+        "size": 10102052,
+        "sha256": "5516dd2c7ff0f571d02bf5f2c9ff5d090a7dee74e87f56be980106c0bb26563d",
+        "date": "2026-11-24T18:53:24.873Z",
+        "commit": "9cee1a06cd7da693a7a188b3d6662c3872b617aa",
         "notes": [
-          "AltStore source: dates without fractional seconds"
+          "AltStore source served through jsDelivr"
         ]
       },
       "mac": {
