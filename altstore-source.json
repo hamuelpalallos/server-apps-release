@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.116",
-          "buildVersion": "116",
-          "date": "2026-11-24T12:58:34.762Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-116/spoty-116.ipa",
-          "size": 10101170,
-          "localizedDescription": "Spoty: song requests (Lidarr, or a request list) and Find lyrics on web and Mac\nSpoty for Mac: released with the mobile apps, and updates itself",
+          "version": "1.0.117",
+          "buildVersion": "117",
+          "date": "2026-11-24T13:22:44.337Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/spoty-117.ipa",
+          "size": 10101188,
+          "localizedDescription": "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.116",
-          "buildVersion": "116",
-          "date": "2026-11-24T12:58:34.703Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-116/glance-116.ipa",
-          "size": 10173289,
-          "localizedDescription": "Spoty for Mac: released with the mobile apps, and updates itself",
+          "version": "1.0.117",
+          "buildVersion": "117",
+          "date": "2026-11-24T13:22:44.281Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/glance-117.ipa",
+          "size": 10173302,
+          "localizedDescription": "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id",
           "minOSVersion": "15.0"
         }
       ],
@@ -63,12 +63,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.116",
-          "buildVersion": "116",
-          "date": "2026-11-24T12:58:34.645Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-116/butterfly-116.ipa",
-          "size": 9997806,
-          "localizedDescription": "Spoty for Mac: released with the mobile apps, and updates itself",
+          "version": "1.0.117",
+          "buildVersion": "117",
+          "date": "2026-11-24T13:22:44.223Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-117/butterfly-117.ipa",
+          "size": 9997823,
+          "localizedDescription": "iPhone: free Apple ID setup guide; updater accepts AltStore's re-signed bundle id",
           "minOSVersion": "15.0"
         }
       ],
