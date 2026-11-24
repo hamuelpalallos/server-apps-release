@@ -91,24 +91,15 @@
         ]
       },
       "mac": {
-        "build": 122,
-        "version": "1.0.122",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-122/spoty-122.dmg",
-        "size": 20489541,
-        "sha256": "83a55ad7b32d03910dd2ad2907428e8d7032828eb5b9d1e8884e17457af12a3e",
-        "date": "2026-11-24T14:14:48.341Z",
-        "commit": "3551aac0b0f337e10d81745ad5db66456195ce9f",
+        "build": 123,
+        "version": "1.0.123",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-123/spoty-123.dmg",
+        "size": 20489523,
+        "sha256": "f85ef5cdf183a4ea91d03f6572bb66cda574ad0810783570bb5d66334964f220",
+        "date": "2026-11-24T14:21:05.222Z",
+        "commit": "10bacba46c7c2dc587467ca2bdf6aed21330c30c",
         "notes": [
-          "Spoty: find missing lyrics and covers automatically and save them to Jellyfin",
-          "Spoty for Mac: build script no longer stops silently on a missing folder",
-          "Spoty for Mac: build through a script that fails loudly",
-          "Spoty: song requests (Lidarr, or a request list) and Find lyrics on web and Mac",
-          "Spoty for Mac: released with the mobile apps, and updates itself",
-          "Mobile apps: in-app updates and a release workflow",
-          "Butterfly mobile: NativeScript-Vue app for the Butterfly finance server",
-          "Spoty web/desktop: Spotify-style UI",
-          "Web layout: stop the window-resize jitter",
-          "Spoty macOS: ad-hoc sign the final bundle so downloads aren't reported as damaged"
+          "Spoty web/Mac: genre radio tiles fit their names"
         ]
       }
     }
