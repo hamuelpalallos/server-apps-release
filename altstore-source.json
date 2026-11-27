@@ -15,12 +15,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.135",
-          "buildVersion": "135",
-          "date": "2026-11-26T03:55:45Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/spoty-135.ipa",
-          "size": 10102646,
-          "localizedDescription": "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size",
+          "version": "1.0.136",
+          "buildVersion": "136",
+          "date": "2026-11-27T00:00:09Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.ipa",
+          "size": 10102654,
+          "localizedDescription": "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)",
           "minOSVersion": "15.0"
         }
       ],
@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.135",
-          "buildVersion": "135",
-          "date": "2026-11-26T03:55:45Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/glance-135.ipa",
-          "size": 10173920,
-          "localizedDescription": "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size",
+          "version": "1.0.136",
+          "buildVersion": "136",
+          "date": "2026-11-27T00:00:09Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/glance-136.ipa",
+          "size": 10173926,
+          "localizedDescription": "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)",
           "minOSVersion": "15.0"
         }
       ],
@@ -63,12 +63,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.135",
-          "buildVersion": "135",
-          "date": "2026-11-26T03:55:45Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/butterfly-135.ipa",
-          "size": 9997904,
-          "localizedDescription": "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size",
+          "version": "1.0.136",
+          "buildVersion": "136",
+          "date": "2026-11-27T00:00:09Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/butterfly-136.ipa",
+          "size": 9997925,
+          "localizedDescription": "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)",
           "minOSVersion": "15.0"
         }
       ],

@@ -7,27 +7,27 @@
       "description": "Your Butterfly budget and transactions.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/butterfly.png",
       "android": {
-        "build": 135,
-        "version": "1.0.135",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/butterfly-135.apk",
-        "size": 92782732,
-        "sha256": "15066ee35e07422876bdbd631b7b65a780196c2169083c356814c720397eb867",
-        "date": "2026-11-26T03:55:45.155Z",
-        "commit": "5b71a0adf6b34d2da435812dd545f4bfe361f3fa",
+        "build": 136,
+        "version": "1.0.136",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/butterfly-136.apk",
+        "size": 92782752,
+        "sha256": "9ca251c705743765438fcf443f31975a79ec0d87ee038cf26da3d378bf51a101",
+        "date": "2026-11-27T00:00:09.513Z",
+        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
         "notes": [
-          "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size"
+          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
         ]
       },
       "ios": {
-        "build": 135,
-        "version": "1.0.135",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/butterfly-135.ipa",
-        "size": 9997904,
-        "sha256": "30177cb8c4a3962e3648bf2df11bfb540b0887d4293f0fdc3aadd448af481c0d",
-        "date": "2026-11-26T03:55:45.391Z",
-        "commit": "5b71a0adf6b34d2da435812dd545f4bfe361f3fa",
+        "build": 136,
+        "version": "1.0.136",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/butterfly-136.ipa",
+        "size": 9997925,
+        "sha256": "0cd1be38bf72efd6569385d32f8a72ba2ef098cf816f1f172e9554af73812554",
+        "date": "2026-11-27T00:00:09.766Z",
+        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
         "notes": [
-          "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size"
+          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
         ]
       }
     },
@@ -37,27 +37,27 @@
       "description": "Your Frigate cameras, alerts and detections.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
       "android": {
-        "build": 135,
-        "version": "1.0.135",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/glance-135.apk",
-        "size": 93373016,
-        "sha256": "a6fab05f0a456e82481660c045d158fee756fccd46a181a5def262b71d1ae876",
-        "date": "2026-11-26T03:55:45.248Z",
-        "commit": "5b71a0adf6b34d2da435812dd545f4bfe361f3fa",
+        "build": 136,
+        "version": "1.0.136",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/glance-136.apk",
+        "size": 93373028,
+        "sha256": "d1ba11ad056bcbf4f857da445127299a7b987e444a66c83312496a6d8915c753",
+        "date": "2026-11-27T00:00:09.616Z",
+        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
         "notes": [
-          "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size"
+          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
         ]
       },
       "ios": {
-        "build": 135,
-        "version": "1.0.135",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/glance-135.ipa",
-        "size": 10173920,
-        "sha256": "9f5437a47b1270a557ce00b0b789c7b99370b61e48f66c977a6ef7a0990371c3",
-        "date": "2026-11-26T03:55:45.442Z",
-        "commit": "5b71a0adf6b34d2da435812dd545f4bfe361f3fa",
+        "build": 136,
+        "version": "1.0.136",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/glance-136.ipa",
+        "size": 10173926,
+        "sha256": "576dc4abe3d6c5c5fc4e126b2145794ae95652c69ef3b24b5c7bf5485dbe0f4e",
+        "date": "2026-11-27T00:00:09.820Z",
+        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
         "notes": [
-          "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size"
+          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
         ]
       }
     },
@@ -67,27 +67,27 @@
       "description": "Music from your Jellyfin server.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/spoty.png",
       "android": {
-        "build": 135,
-        "version": "1.0.135",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/spoty-135.apk",
-        "size": 96205463,
-        "sha256": "1e9a5c54df2c513566b0b6f0c588dd779d4fb28aa5310effdce7713fa42eaf98",
-        "date": "2026-11-26T03:55:45.338Z",
-        "commit": "5b71a0adf6b34d2da435812dd545f4bfe361f3fa",
+        "build": 136,
+        "version": "1.0.136",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.apk",
+        "size": 96205471,
+        "sha256": "fa0c653aead8711c028518253f849ac76f249e8e50f3efc227214cfb35dc1128",
+        "date": "2026-11-27T00:00:09.712Z",
+        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
         "notes": [
-          "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size"
+          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
         ]
       },
       "ios": {
-        "build": 135,
-        "version": "1.0.135",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-135/spoty-135.ipa",
-        "size": 10102646,
-        "sha256": "95dde421e04119a144aea3e0e02cb8cd11cf7f7f9c9e8cdc4a6c60be5f9c407e",
-        "date": "2026-11-26T03:55:45.493Z",
-        "commit": "5b71a0adf6b34d2da435812dd545f4bfe361f3fa",
+        "build": 136,
+        "version": "1.0.136",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.ipa",
+        "size": 10102654,
+        "sha256": "41699fcd82b16030e75c933977a4caee6a1aea3468510646205da455c0852d5a",
+        "date": "2026-11-27T00:00:09.872Z",
+        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
         "notes": [
-          "Mobile apps: iOS 26 liquid glass tab bar in all three; tab titles at the system size"
+          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
         ]
       },
       "mac": {
