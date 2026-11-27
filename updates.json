@@ -37,27 +37,27 @@
       "description": "Your Frigate cameras, alerts and detections.",
       "iconURL": "https://raw.githubusercontent.com/hamuelpalallos/server-apps-release/main/icons/glance.png",
       "android": {
-        "build": 136,
-        "version": "1.0.136",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/glance-136.apk",
-        "size": 93373028,
-        "sha256": "d1ba11ad056bcbf4f857da445127299a7b987e444a66c83312496a6d8915c753",
-        "date": "2026-11-27T00:00:09.616Z",
-        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
+        "build": 137,
+        "version": "1.0.137",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-137/glance-137.apk",
+        "size": 93373052,
+        "sha256": "7e64e2bd4a1ecc64620bd6bf8bb1e6f7cd57f2de9a714afe3c478480f100babb",
+        "date": "2026-11-27T00:07:43.972Z",
+        "commit": "ee3421c2a43748e1f250da339c38ed0cc4e3b568",
         "notes": [
-          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
+          "Glance: camera list switches use the system's off colour on iOS"
         ]
       },
       "ios": {
-        "build": 136,
-        "version": "1.0.136",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/glance-136.ipa",
-        "size": 10173926,
-        "sha256": "576dc4abe3d6c5c5fc4e126b2145794ae95652c69ef3b24b5c7bf5485dbe0f4e",
-        "date": "2026-11-27T00:00:09.820Z",
-        "commit": "5c685c7d7fbb9c4514f34bab018923cdd81c146a",
+        "build": 137,
+        "version": "1.0.137",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-137/glance-137.ipa",
+        "size": 10173947,
+        "sha256": "955dee177c87ab02e8a6d5eccabce204e9b83e8e1948e171d08d4186d4950700",
+        "date": "2026-11-27T00:07:44.034Z",
+        "commit": "ee3421c2a43748e1f250da339c38ed0cc4e3b568",
         "notes": [
-          "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)"
+          "Glance: camera list switches use the system's off colour on iOS"
         ]
       }
     },

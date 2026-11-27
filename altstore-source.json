@@ -39,12 +39,12 @@
       "tintColor": "#f26b3a",
       "versions": [
         {
-          "version": "1.0.136",
-          "buildVersion": "136",
-          "date": "2026-11-27T00:00:09Z",
-          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/glance-136.ipa",
-          "size": 10173926,
-          "localizedDescription": "Mobile apps: iOS switches drawn by the system (fixes the grey slab on iOS 26)",
+          "version": "1.0.137",
+          "buildVersion": "137",
+          "date": "2026-11-27T00:07:44Z",
+          "downloadURL": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-137/glance-137.ipa",
+          "size": 10173947,
+          "localizedDescription": "Glance: camera list switches use the system's off colour on iOS",
           "minOSVersion": "15.0"
         }
       ],
