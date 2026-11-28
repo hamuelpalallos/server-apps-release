@@ -91,15 +91,15 @@
         ]
       },
       "mac": {
-        "build": 138,
-        "version": "1.0.138",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-138/spoty-138.dmg",
-        "size": 20491602,
-        "sha256": "4e921483a770678886e462741e1a11680524452de0329b7debb98b9b3684e1d6",
-        "date": "2026-11-28T08:11:50.379Z",
-        "commit": "7df320d1403291499fc4fb2599b4c8ad0ba2875f",
+        "build": 139,
+        "version": "1.0.139",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-139/spoty-139.dmg",
+        "size": 20486080,
+        "sha256": "d591aba2c31c079d45c5cb667e251b543b7ad3ff2f0c2f08aff3d1bb84972558",
+        "date": "2026-11-28T09:04:33.589Z",
+        "commit": "ddaa319f932a26d3fca02c9dd6f4b7aabdf43a6c",
         "notes": [
-          "Spoty web/Mac: lyrics in the main panel, and readable lines to come"
+          "Spoty on the web: spoty.softwarelabs.dev serves the player, with admin pages, sign-up and Spotify mirrors"
         ]
       }
     }

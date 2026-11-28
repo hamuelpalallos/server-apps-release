@@ -5,7 +5,7 @@ on every build; nothing here is edited by hand.
 
 | App | Android | iPhone | Mac (Apple silicon) |
 | --- | --- | --- | --- |
-| Spoty | [Download APK 1.0.136](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.apk) (92 MB) | 1.0.136 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.ipa), 10 MB) | [Download for Mac 1.0.138](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-138/spoty-138.dmg) (20 MB) |
+| Spoty | [Download APK 1.0.136](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.apk) (92 MB) | 1.0.136 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/spoty-136.ipa), 10 MB) | [Download for Mac 1.0.139](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-139/spoty-139.dmg) (20 MB) |
 | Glance | [Download APK 1.0.137](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-137/glance-137.apk) (89 MB) | 1.0.137 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-137/glance-137.ipa), 10 MB) | — |
 | Butterfly | [Download APK 1.0.136](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/butterfly-136.apk) (88 MB) | 1.0.136 via SideStore / AltStore ([IPA](https://github.com/hamuelpalallos/server-apps-release/releases/download/build-136/butterfly-136.ipa), 10 MB) | — |
 
