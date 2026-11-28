@@ -91,21 +91,15 @@
         ]
       },
       "mac": {
-        "build": 131,
-        "version": "1.0.131",
-        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-131/spoty-131.dmg",
-        "size": 20495195,
-        "sha256": "ad5043f975c792e39876b4240f015733bcfc74156e7b076103466a5ea5167fc9",
-        "date": "2026-11-24T15:41:37.476Z",
-        "commit": "dae5d7a3408433a2553b2ff2f76fa3d912775aa7",
+        "build": 138,
+        "version": "1.0.138",
+        "url": "https://github.com/hamuelpalallos/server-apps-release/releases/download/build-138/spoty-138.dmg",
+        "size": 20491602,
+        "sha256": "4e921483a770678886e462741e1a11680524452de0329b7debb98b9b3684e1d6",
+        "date": "2026-11-28T08:11:50.379Z",
+        "commit": "7df320d1403291499fc4fb2599b4c8ad0ba2875f",
         "notes": [
-          "Docs: running the Spoty companion and building Spoty for Mac",
-          "Spoty web/Mac: \"Settings\" in the companion hints is a link",
-          "Spoty for Mac: Settings… (Cmd+,) in the app menu, and an error log",
-          "Spoty for Mac: Cmd+Q quits, Cmd+W closes the window",
-          "Spoty web/Mac: the account menu is plain links",
-          "Spoty web/Mac: a Settings gear in the top bar",
-          "Spoty web/Mac: account menu opens Settings, Stats and Requests again"
+          "Spoty web/Mac: lyrics in the main panel, and readable lines to come"
         ]
       }
     }
